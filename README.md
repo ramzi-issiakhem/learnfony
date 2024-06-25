@@ -3,7 +3,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/ramzi-issiakhem/learnfony"> 
-    <img src="logo.png" alt="Learnfony" />  
+    <img width=150 height=150 src="logo.png" alt="Learnfony" />  
   </a>
   <br>
   Learnfony
